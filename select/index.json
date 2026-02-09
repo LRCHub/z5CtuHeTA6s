@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "星屑のインターリュード",
+  "base_artist": "fhána",
+  "createdAt": "2026-02-09T05:36:22.722887Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "星屑のインターリュード(TV Size)",
+      "artist": "fhána",
+      "has_synced": false,
+      "path": "select/01_星屑のインターリュード(TV_Size)_fhána.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "星屑のインターリュード (Avec Avec \"twilight town\" Remix)",
+      "artist": "fhána",
+      "has_synced": true,
+      "path": "select/02_星屑のインターリュード_(Avec_Avec__twilight_town__Remix)_fhána.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "星屑のインターリュード (Avec Avec “twilight town” Remix)",
+      "artist": "fhana",
+      "has_synced": true,
+      "path": "select/03_星屑のインターリュード_(Avec_Avec_“twilight_town”_Remix)_fhana.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "星屑のインターリュード",
+      "artist": "fhána",
+      "has_synced": false,
+      "path": "select/pl_01_星屑のインターリュード_fhána.txt"
+    }
+  ]
+}
